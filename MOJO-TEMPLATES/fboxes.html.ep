@@ -1,0 +1,20 @@
+@@ fboxes.html.ep
+%= stylesheet '/styles.css'
+<html>
+<body>
+
+<div>
+<h1>Boîte de diapositives n°</h1>
+</div>
+
+<% my @boxesid  = @{ $boxesid} };
+
+<% my $collection = Mojo::Collection->new(@boxesid); %>
+%= form_for show_box => begin
+	%= label_for id => 'N° box'
+	%= select_field id => $boxes_collection
+	%= submit_button 'Affiche_boite'
+% end
+
+</body>
+</html>

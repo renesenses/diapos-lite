@@ -1,0 +1,165 @@
+box_id;event_id;sub_range;sub_name
+1;1;1à36;prise de contact avec l'Algérie & vie en casernement
+1;1;37à46;Arzew
+1;1;83à87;retour vers la FRANCE
+1;1;47à82;Sahara
+1;2;1;Saint-denis voiture
+1;2;2à4;Chats
+1;2;5à6;Albert
+1;2;8;Notre-Dame
+1;2;7;L'institut
+1;2;9;Le Louvre
+1;2;10;Le caroussel
+1;2;11à12;Muguet
+1;2;13;Le pont des Arts
+1;3;1à2;chantier de l'usine
+1;3;3;Pointe de Goury
+1;3;4;Cap de la Hague
+1;3;4bis;Les iles Anglo normandes
+1;3;5;Barneville
+1;3;6à7;Carteret
+1;3;8;Dielette
+1;3;9;Vauville
+1;3;10;Route bordée d'arbres
+1;3;11;Le Rozel
+1;3;12;Gatteville
+1;3;13à14;Fontaine de Vaucluse
+1;3;15;le Pont d'Avignon
+1;4;1à5;Vues générales
+1;4;6à8;Pique-nique
+1;4;9à12;Annie
+1;5;1à8;noêl traitionnel
+1;5;9;sur la route vers GANGES
+1;5;10;le pic saint- loup
+1;5;11à13;l'Hérault
+1;5;14à15;En voiture
+1;5;16à20;Navacelles
+1;5;21à27;neige à Montpellier
+1;5;28à31;En Camargue
+1;6;1à2;La pointe du Groin
+1;6;3;La ville
+1;6;4;Le grand Bé
+1;6;5à6;La Rance
+1;6;7à8;Dinard
+1;6;9à10;Pique-nique
+1;6;11à12;Annie
+1;7;1à6;(Paques) Repas à Montpellier
+1;7;7à8;Palavas
+1;8;1à10;Place Divette
+1;8;11;Landemer
+1;8;18;Vauville
+1;8;19;Jobourg
+1;8;12à14;La côte nord de la hague
+1;8;15;Annie
+1;8;16à17;Omonville
+1;9;1;Pique-nique sur l’autoroute près d’Anvers
+1;9;2à19;mariage à montpellier
+1;10;1à16;lasuisse pr le col de la sylvretta & la Bavière
+1;10;17à27;Autriche & pique-nique
+1;10;28à35;Kriml & Grossclockner
+1;10;36à42;Pique-nique & konigsee & berchteengarden
+1;10;43à50;Salzbourg & lac
+1;11;1;Vacances 1965
+1;11;2;Montpellier la lumière
+1;11;3à11;la fête
+1;12;1à12;Equeurdreville
+1;12;13à15;Carteret
+1;12;16;Barneville
+1;12;17;Premier montage de la tente
+1;12;18;Albert
+1;13;1à3;Jean
+1;13;4à5;Goury
+1;13;6à12;à Charcot
+1;13;13;Coucher de soleil
+1;13;14à16;pierre Monique & Eric à Cherbourg
+1;14;1à2;Honfleur
+1;14;3à6;Sur la route
+1;14;7à8;Rouen
+1;14;9;La Seine
+1;14;10à17;Jumiege
+1;14;18à21;Tancarville
+1;16;1;Drakkar
+1;16;2à3;Port d'arrivée en Norvège
+1;16;4à8;premier pique-nique en Norvège
+1;16;9à23;en route vers le cercle polaire
+1;16;24à28;le cercle polaire
+1;16;29à62;les paysages norvégiens & finlandais sont identiques,il fait froid.
+1;16;63à69;Rovaniemi (le retour à la civilisation )
+1;16;70à72;notre remorque crève mais nous ne nous laissons pas abatre
+1;16;73à89;Helsinki
+1;16;90à115;Oslo
+1;16;116à119;notre dernier ferry pour l'Alemagne puis la Belgique & la FRANCE
+1;17;1à5;Guy,Berthe,France & Luc sur la plage du Rozel
+1;17;6à12;les memes à Charcot
+1;17;13à16;Annie & Albert
+1;17;17à23;le val de Saire
+1;18;1à4;Annie attends un héritier
+1;18;14à32;Pâques le repas
+1;18;5à13;Lesauvage à charcot
+2;1;1à10;bain de Bertrand
+2;1;11à18;le baptème
+2;1;19à34;le repas
+2;2;1à4;On se prépare
+2;2;5à15;le repas (le soir)
+2;2;16à24;le landemain
+2;16;1à15;les “grands”(Bertrand) dansent le pays basque
+2;16;16à20;puis c'est au tour des “petits”(Armelle)de danser
+2;16;21à25;tous au gymnase
+2;17;1à11;Fleurs de montagne
+2;17;12à37;la balade se poursuit avec les Delamer
+2;18;1à8;au camping
+2;18;9à19;le bateau
+2;18;20à25;apres avoir essayé d'autres occupations
+2;18;26à34;on revient toujours au bateau
+2;18;35à37;les soirées sont courtes
+3;9;1à2;carriere Baquin:Eric,Isabelle,Berttrand & Armelle
+3;9;3à4;Armelleau manège pour les chevaux
+3;9;5à6;Armelle fait de la patisserie
+3;9;7à8;Dijon,Talant de nuit
+3;9;9à11;en revenant de l'école
+3;9;12à13;enfants à Nevers
+3;9;14;Les clomiers
+3;10;1à3;les enfants s'ocupent comme ils le souhaitent
+3;10;4à50;les adultes attendent patiemment l'heure du repas
+3;10;51à61;Nous fètons les rois avec un peu d'avance
+4;2;1à3;France s'occupe du jardin
+4;2;4;sous la surveillaance de son mari, de mes parents
+4;2;5à6;& de son chien
+4;2;7à19;les cadeaux sont pour Armelle
+4;2;20à23;les adultes attendent
+4;2;24à26;l'heure du café au jardin
+4;2;27à40;avant la sieste
+4;2;41à50;et la partie de boules
+4;2;51;Fleurs de montagne
+4;2;52à54;anniversaire Armelle
+4;9;1à12;les jeunes s'amusent
+4;9;13à52;lesmoins jeunes attendent le match de ping-pong
+4;9;53à54;le match
+4;9;55à90;le lendemain nous allons tous à Ganges
+6;1;1à18;vuesd'avion
+6;1;19à53;Disney land
+6;1;54à79;Los Angeles
+6;1;80à91;en route vers Las Vegas
+6;1;92à108;Calico ghost town
+6;1;109à147;Las Végas
+6;1;148à215;le gran canyon
+6;1;216à265;the death valley
+6;1;266à273;Mamoth lake
+6;1;274à307;Yosemite national park
+6;1;308à393;San francisco
+6;1;394à409;los alamos (santa fe albuquerque )
+8;6;1à21;Colombo
+8;6;22à32;Chilaw
+8;6;33à68;Anuradhapura
+8;6;69à77;Mihuntale
+8;6;78à109;Nilaveli
+8;6;110à137;Tricomalée
+8;6;138à168;Polonnaruwa
+8;6;169à189;Siguiriya
+8;6;190à208;Thés, Epices
+8;6;209à291;Kandy
+8;6;292à307;le riz
+8;6;308à327;Bentota
+11;11;1à30;Guernesey
+11;11;31à66;Serk
+11;11;67à108;Guernesey

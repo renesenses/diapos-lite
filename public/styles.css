@@ -1,0 +1,57 @@
+		body {
+			font-family:Verdana,Arial,Sans;
+			font-size:13px;
+			background-color: lightgrey; 
+			color:Black;
+		}
+		h1 {
+			text-align: center;
+			color: blue;
+			font-size: 24px;
+		}
+		h2 {
+			text-align: center;
+			color: blue;
+			font-size: 18px;
+		}
+		th {
+			background-color: orange;
+			color: white;
+			text-align: center;
+		}
+		td {
+			text-align: center;
+		}
+		tr:hover {background-color: #f5f5f5}
+		tr:nth-child(even) {background-color: #f2f2f2}
+		ul {
+					width:760px;
+			margin-bottom:20px;
+			overflow:hidden;
+			border-top:1px solid #ccc;
+		}
+		li {
+			line-height:1.5em;
+			border-bottom:1px solid #ccc;
+			float:left;
+		}
+		#box ul li {
+			margin-left: 0;
+			padding-left: 2px;
+			border: none;
+			list-style: none;
+			display: inline;
+		}
+		
+		ul.event-ul {
+		}
+		il.event-id-il {
+		}
+		il.event-year-il {
+		}
+		il.event-month-il {
+		}
+		il.event-name-il {
+		}
+		il.event-nb-il {
+		}

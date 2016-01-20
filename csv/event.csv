@@ -1,0 +1,197 @@
+box_id;event_id;event_year;event_month;event_name;event_nb
+1;1;1962-64;0;Service Militaire;87
+1;2;1964;Juin;Paris;13
+1;3;1964;Juin;Divers;16
+1;4;1964;septembre;La Suisse Normande;12
+1;5;1964;décembre;Noël à Montpellier;31
+1;6;1965;Avril;Week-End à Saint-Malo;12
+1;7;1965;avril;fiançailles Annie & Albert;8
+1;8;1965;avril;Divers;19
+1;9;1965;Juillet;Mariage Annie & Albert;19
+1;10;1965;août;Voyage de noce en Autriche;50
+1;11;1965;Décembre;Noël à Montpellier;11
+1;12;1965;Décembre;Divers;18
+1;13;1966;Décembre;Divers;16
+1;14;1966;Avril;valée de la Seine;21
+1;15;1966;Avril;Baptème Eric à Montpellier;34
+1;16;1966;Juin;voyage dans les Pays Nordiques;119
+1;17;1966;juillet;Eté à Cherbourg;23
+1;18;1967;avril;Pâques à Charcot;32
+1;19;1967;mai;Naissance de Bertrand;31
+1;20;1967;août;Bertrand;18
+2;1;1967;Août;baptème Bertrand à Montpellier;34
+2;2;1967;décembre;Noêl à Haineville;24
+2;3;1968;décembre;Ski à Superdévoluy;8
+2;4;1969;decembre;Noêl à Haineville;16
+2;5;1975;Juin;Palavas;21
+2;6;1975;août;Pique-nique;22
+2;7;1975;août;Palavas;43
+2;8;1975;décembre;Noêl à Montpellier;66
+2;9;1975;décembre;Divers;15
+2;10;1976;janvier;en bourgone;7
+2;11;1976;février;neige aux Clomiers;6
+2;12;1976;mars;Armelle;8
+2;13;1976;mai;Porquerolle;9
+2;14;1976;Mai;la Ceze;19
+2;15;1976;juin;Arbois;13
+2;16;1976;juin;Fete des écoles;25
+2;17;1976;Juillet;La Clusaz;37
+2;18;1976;Juillet;vacances;37
+2;19;1976;juillet;Bagnols;7
+2;20;1976;septembre;repas henri Raynal;23
+3;1;1976;Juillet;Week-end avec Guy;38
+3;2;1976;Août;Vacances 1;38
+3;3;1976;Août;Vacances 2;38
+3;4;1976;août;col du Minier;36
+3;5;1976;octobre;champignons;14
+3;6;1976;novembre;en Bretagne à tréduder;6
+3;7;1976;novembre;en BretagneàLoudéac;8
+3;8;1976;Décembre;Noêl 76;37
+3;9;1976;Décembre;Divers;14
+3;10;1977;janvier;Jour de l'an à Montpellier;61
+3;11;1977;février;ski de fond à Mouthe;9
+3;12;1977;mars;fête des écoles à Langevin;25
+3;13;1977;mars;Cheneroilles;17
+3;14;1977;mars;scenes d'hiver;5
+3;15;1977;mars;Autun;8
+3;16;1977;juin;fête à l'école Langevin;17
+4;1;1977;Juin;Pendaison de la crémaillère au 50 Bd de troyes;29
+4;2;1977;Juin;Première comunion de Bertrand à Talant;54
+4;3;1977;Juin;Bretagne;11
+4;4;1977;Juillet;Tonquédec;14
+4;5;1977;Juillet;Tréduder;11
+4;6;1977;Juillet;Cherbourg chez Lesauvage;18
+4;7;1977;Décembre;Noêl à Hauteville chez Paquelier;17
+4;8;1977;Décembre;Divers;2
+4;9;1978;Avril;Paques àMontpellier;90
+4;10;1978;Mai;en Autriche à Vienne;31
+4;10bis;1978;Mai;à Vienne (photos du comerce );31
+4;11;1978;Mai;anniversaire de Betrand;5
+4;12;1978;Juin;anniversaire d'Armelle;6
+4;13;1978;Juin;avions à Darois;10
+4;14;1978;Juin;Fête de l'école à Langevin;13
+4;15;1978;Juin;au jardin à Talant avec Delamer & Calvet;7
+4;16;1978;Juin;Chatillon pique-nique en foret avec Delamer & Calvet;25
+5;1;1978;Juillet;Vacances à Palavas;96
+5;2;1979;Juin;Anniversaire Armelle;4
+5;3;1979;Juin;GP de Dijon;7
+5;4;1979;Juillet;RallyeATT;22
+5;5;1979;Juillet;Cheneroilles;29
+5;6;1978;Août;maison à Talant;4
+5;7;1979;Août;Paques;16
+5;8;1979;Juillet;retour du Tarn;11
+5;9;1979;Juillet;marche dans les Cévennes;57
+5;10;1979;Juillet;Vacances à Palavas;26
+5;11;1979;Décembre;marches en Bourgogne;5
+5;12;1979;Octobre;Tahiti;61
+5;13;1979;Décembre;Noêl;14
+5;14;1979;Décembre;Divers;53
+5;15;1980;Février;ski à Jougne;42
+5;16;1980;Mai;anniversaire Bertrand;12
+5;17;1980;Juillet;Anniversaire de mariage 15 ans;0
+5;18;1980;Juillet;été à Palavas;31
+6;1;1978;Octobre;voyage aux USA (Californie);409
+7;1;1981;Août;Mariage Luc & Florence;89
+7;2;1981;Décembre;à PARIS;12
+7;3;1981;Décembre;Noêl chez France & Claude à Rueil;36
+7;4;1982;Décembre;Paques à Montpellier;66
+7;5;1982;Juin;Commarin (stage Armelle );17
+7;6;1982;Juin;chats à Montpellier;21
+7;7;1982;Juillet;Alesia;13
+7;8;1982;Juin;Anniversaires des enfants à Talant;17
+7;9;1982;Juin;à PARIS;19
+7;10;1982;Juin;Escrime Armelle;23
+7;11;1982;Juin;manoires normands;16
+7;12;1982;Février;Bretagne;14
+7;13;1982;Février;Divers Dijon;11
+7;14;1982;Mai;anniversaire Bertrand;4
+7;15;1982;Juillet;Camping à Palavas;18
+7;16;1982;Mai;Communion Armelle;34
+7;17;1982;Décembre;Noêl à Montpellier;19
+7;18;1982;Août;Vacances à Palavas;36
+7;19;1982;Décembre;à PARIS;23
+7;20;1982;Juin;Fête de l'école Langevin;7
+7;21;1982;Juin;Divers;10
+8;1;1980;Août;Marche;25
+8;2;1980;Août;Baptème au mas Simon;23
+8;3;1980 &81;Août;Divers;29
+8;4;1981;Avril;Paques à Montpellier;35
+8;5;1980;Août;Apt;5
+8;6;1981;Avril;Sri-Lanka;327
+8;7;1981;Mai;Dijon-Talant;8
+8;8;1981;Juin;Les 4 ans de Simon;36
+8;9;1981;Juillet;eté à Palavas;19
+8;10;1981;Septembre;camp Armelle;18
+9;1;1981;Septembre;Saint-Saturnin les Apt;11
+9;2;1984;Juillet;Armelle s'installe en Angleterre;16
+9;3;1984;Juillet;angleterre;32
+9;4;1984;Août;vacances Palavas ( août 84 );69
+9;5;1984;Novembre;à Paris;4
+9;6;1985;Janvier;France & Claude à Cherbourg;23
+9;7;1985;Mai;Anniversaire Bertrand;16
+9;8;1984;Décembre;Noêl à Montpellier;33
+9;9;1985;Janvier;Neige à Cherbourg;11
+9;10;1984;Juin;l'Aquitaine;46
+9;11;1986;Septembre;Paquelier & Goube à Cherbourg;3
+9;12;1986;Juillet;vacances Palavas;20
+9;13;1986;Août;l'Irlande;97
+9;14;1985;Septembre;Jullouville;6
+9;15;1986;Décembre;Noêl à Montpellier;32
+9;16;1986;Juillet;anniversaire d'Armelle;16
+9;17;1986;Septembre;chambre bertrand à Lausane;8
+9;18;1986;Mai;anniversaire de Bertrand;14
+10;1;1986;Août;L'Irelande ( suite ) (98à138);40
+10;2;1986;Mai;échange espagnol;7
+10;3;1986;Mai;Divers (87);10
+10;4;1987;Janvier;Honfleur ( avec l'acceuil );16
+10;5;1987;Juillet;Plouaret;8
+10;6;1985;Février;le Maroc;205
+10;7;1987;Février;vacances d'hiver;23
+10;8;1987;Mars;Paques à Montpellier;25
+10;9;1987;Mai;anniversaire Bertrand , fête des mères &et des pères;24
+10;10;1986;Mai;Neige-anniversaires enfants-fête des mères-;29
+10;11;1986;Juin;départ des Regard de cherbourg;27
+11;1;1985;Mai;Carteret ( avec l'accueil );20
+11;2;1985;Juin;séjour de la corespondante australienne;28
+11;3;1985;Juillet;sentier des douaniers-maison d'hotes-;6
+11;4;1985;Juillet;angleterre;20
+11;5;1985;Avril;Jacques;44
+11;6;1985;Juillet;Nevers;52
+11;7;1985;Août;vacances d'été;71
+11;8;1985;Décembre;Noêl à Montpellier;27
+11;9;1985;Août;croisiere de Bertrand;12
+11;10;1985;Août;Divers (85);31
+11;11;1986;Mai;Iles anglo-normandes;108
+12;1;1987;Juillet;Montpellier-le-vieux;21
+12;2;1987;Juillet;en Dordogne;51
+12;3;1987;Décembre;Noêl à Talant;4
+12;4;1988;Décembre;Divers 88;6
+12;5;1987;Août;mariage Michel;49
+12;6;1987;Septembre;Bertrand & Armelle;16
+12;7;1988;Avril;Andalousie;10
+12;8;1988;Mai;Paques à la maison-50 ans d'Annie;37
+12;9;1988;Juin;Aurigny en voilier avec Christian;49
+12;10;1988;Juillet;Plouaret;30
+13;1;1983;Juillet;Paques à Montpellier & Ganges;79
+13;2;1983;Juillet;manoirs normands;15
+13;3;1983;Juillet;sortie Armelle;22
+13;4;1983;Juillet;sur le canal du Midi;72
+13;5;1983;Juillet;vacances d'été à Palavas;122
+13;6;1983;Juillet;Divers Cherbourg;23
+13;7;1984;Juillet;Paques à saint-malo;41
+13;8;1984;Juillet;la famille Calvet à Cherbourg;16
+13;9;1984;Juillet;anniversaires Bertrand & Armelle;34
+13;10;1984;Juillet;Saint-vâst la hougue;12
+13;11;1984;Juillet;Escrime Armelle;7
+13;12;1988;Juillet;vacances d'été;5
+14;1;1987;Juin;chez les Lesauvage;6
+14;2;1987;Juin;les Calvet à Cherbourg;8
+14;3;1988;Décembre;Noêl à Montpellier;8
+14;4;1988;Novembre;à Montpellier;27
+14;5;1989;Novembre;Paques à Montpellier;46
+14;6;1989;Mai;anniversaire d'Armelle;16
+14;7;1989;Mai;Calvet à Cherbourg;10
+14;8;1989;Mai;Jacques à Cherbourg;5
+14;9;1989;Juin;Pot de départ de Cherbourg;26
+14;10;1984;Juin;Divers;18
+14;11;1982;Juin;Divers;20
