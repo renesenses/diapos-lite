@@ -476,7 +476,7 @@ __DATA__
 %end
 </div>
 <div class="event">
-	%=select_field event_name => <%== eventcollection("1") 
+	%=select_field event_name => <%== eventcollection($box_id) 
 	%=submit_button 'Choisir event'
 </div>
 <%# 	%=select_field sub_name => $subs_col %>
